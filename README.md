@@ -15,18 +15,6 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with React an
 
 ---
 
-## 📋 Table of Contents
-
-1. [Overview](#-overview)  
-2. [Technologies Used](#-technologies-used)  
-3. [Getting Started](#-getting-started)  
-4. [Usage](#-usage)  
-5. [Screenshots](#-screenshots)  
-6. [Contributing](#-contributing)  
-7. [License](#-license)  
-
----
-
 ## 🛠 Overview
 
 The CRUD Gym Workout App is a full-stack web application designed to help users efficiently manage and track their workout routines. Built with React for the frontend and MongoDB for the backend database, the app provides users with a seamless experience to create, view, update, and delete their workout sessions. Whether you're tracking daily exercises or planning future routines, this app offers an easy-to-use interface and powerful functionality to meet your fitness management needs.
@@ -37,16 +25,5 @@ The CRUD Gym Workout App is a full-stack web application designed to help users 
 
 - **Frontend**: React, Vite, CSS, DateFNS, Cloudinary  
 - **Database**: MongoDB  
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js >= 14.x  
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
