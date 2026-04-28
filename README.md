@@ -1,4 +1,7 @@
-[Homepage Screenshot](./imove.jpg)
+
+<p align="center">
+  <img src="./imove.jpg" width="100%">
+</p>
 
 # 📌 iMove GymMonkey - Gym Workout App
 https://i-move-kisy.vercel.app/
