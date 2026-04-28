@@ -4,7 +4,6 @@
 </p>
 
 # 📌 iMove GymMonkey - Gym Workout App
-https://i-move-kisy.vercel.app/
 
 A full-stack CRUD (Create, Read, Update, Delete) application built with React and MongoDB that helps users manage their workout routines effectively. This app enables users to add, view, edit, and delete workout sessions while maintaining a clean and responsive UI.
 
