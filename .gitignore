@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+*.env
+
+# OS files
+.DS_Store
+
+# Local upload test files
+backend/public/uploads/
