@@ -6,8 +6,6 @@
 
 A full-stack gym workout tracker. Sign up, log your workouts with reps, load and an optional photo, edit or delete them, and comment on each one.
 
-**Live demo:** https://i-move-nine.vercel.app/
-
 > An early project (2024), built to practise full-stack fundamentals with the MERN stack.
 
 ## Features
